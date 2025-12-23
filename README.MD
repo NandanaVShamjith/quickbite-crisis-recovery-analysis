@@ -54,7 +54,7 @@ The crisis was primarily driven by **internal operational failures**, not extern
 🔗 Download PBIX: https://drive.google.com/file/d/1vI_DLQsDs2wU_ASZedUtAeKdsnvWkxDI/view?usp=sharing
 
 
-
+---
 
 ## 🛠 Tools & Technologies
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
@@ -76,3 +76,4 @@ This project demonstrates:
 ## 👤 Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
