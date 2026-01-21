@@ -86,6 +86,12 @@ This project demonstrates:
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
 
+LinkedIn: www.linkedin.com/in/690374282
+
+Email: nandanavshamjith39@gmail.com
+
+
+
 
 
 
