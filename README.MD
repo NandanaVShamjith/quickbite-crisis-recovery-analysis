@@ -53,17 +53,17 @@ The crisis was primarily driven by **internal operational failures**, not extern
 ##  Power BI Dashboard  
 🔗 Download PBIX: 
 
-Screenshot: 
+Screenshot: https://drive.google.com/file/d/1phH4uuWBLMfm5j3NVmSAB8UU87RObCyG/view?usp=drive_link
 
-Screenshot:
+Screenshot: https://drive.google.com/file/d/1JqN_SmVXcExkcKEidnTANUy0NpY_axgd/view?usp=drive_link
 
-Screenshot: 
+Screenshot: https://drive.google.com/file/d/1_UoAGRfg_pNRsh6VdtH26Msu-HtGynCF/view?usp=drive_link
 
-Screenshot: 
+Screenshot: https://drive.google.com/file/d/1ADG7HydiWHkg_-MSiXAHjVwuaY2QoYXK/view?usp=drive_link
 
-Screenshot:
+Screenshot: https://drive.google.com/file/d/1XuXoCNldHs_nLN-vtHPhDc6X_AXnXtdc/view?usp=drive_link
 
-Screenshot:
+Screenshot: https://drive.google.com/file/d/1I6BQw1t-nfKZAJlmg9pHza-TYYUZJUpY/view?usp=drive_link
 
 ---
 
@@ -87,6 +87,7 @@ This project demonstrates:
 ##  Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst / Business Analyst
+
 
 
 
